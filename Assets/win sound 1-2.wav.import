@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/win sound 1-2.wav-8f02e68e1fc2d33076c3feba1221127b.sample"
+
+[deps]
+
+source_file="res://Assets/win sound 1-2.wav"
+dest_files=[ "res://.import/win sound 1-2.wav-8f02e68e1fc2d33076c3feba1221127b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

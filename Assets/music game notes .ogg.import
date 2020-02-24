@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/music game notes .ogg-94e44f6980fb21dc5fb351bc52beb37a.oggstr"
+
+[deps]
+
+source_file="res://Assets/music game notes .ogg"
+dest_files=[ "res://.import/music game notes .ogg-94e44f6980fb21dc5fb351bc52beb37a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
